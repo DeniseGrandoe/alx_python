@@ -10,7 +10,7 @@ def fibonacci_sequence(n):
             cel = fib[-1] + fib[-2]
             fib.append(cel)
         return fib
-    print(fibonacci_sequence(20))
+  
 
 
         
